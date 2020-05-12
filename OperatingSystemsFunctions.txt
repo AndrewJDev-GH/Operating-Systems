@@ -1,0 +1,5 @@
+One operating system function
+
+Booting - Booting is a term for starting or restarting a computer. 
+Along with booting, there is also, "cold boot" and "warm boot". 
+The Booting sequence comes from the OS. 
