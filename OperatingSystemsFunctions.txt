@@ -9,3 +9,8 @@ More operating system functions
 Sleep Mode - A mode that saves documents and stops unneeded functions.
 The computer is then put into a low power state. 
 If the power is lost during sleep mode, unsaved work can be lost. 
+
+Interface - Also known as UI or userinterface, UI allows users to input and recieve information.
+There are three types of UI's.
+They are the command-line, menu drive, and graphical user interface.
+
